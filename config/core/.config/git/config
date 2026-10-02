@@ -3,8 +3,8 @@
 [core]
     editor = nvim
 [user]
-    name = Melker Widén
-    email = melker.widen@gmail.com
+    name = Diana Al Allaf
+    email = diana.13_2003@icloud.com
 [pull]
     rebase = true
 [push]
